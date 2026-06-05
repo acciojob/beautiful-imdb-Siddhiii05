@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+.moviePic{
+	width:700px;
+	height:400px;
+	opacity:60%;
+}
+.movieDetail{
+	width:700px;
+	text-align:center;
+	font-family:"Verdana", sans-serif;
+	font-style:italic;
+	font-size: 30px;
+	position:top;
+	background-color:lightpink;
+}
+
+body{
+	background-color:lightcoral;
+	text-align:center;
+}
